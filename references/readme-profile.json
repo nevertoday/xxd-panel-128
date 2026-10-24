@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 128｜Enamel Medallion Travel: compresses the key subject of a photo into a round enamel medallion like a travel souvenir badge, with a metal rim, coloured cloisonné-style fills, soft highlights and shallow bas-relief layers holding a miniature scene, placed in a large off-white or ivory field with refined serif titles, small notes or numbers like a minimalist travel poster, in 2–4 softened colours from the photo. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-128 or asks for enamel pin, cloisonné, medallion badge or minimalist travel poster images from a photo.",
+  "short_description": "珐琅徽章旅行志：把照片压进一枚圆形珐琅纪念章，配优雅衬线字做成极简旅行海报",
+  "zh-CN": {
+    "name": "珐琅徽章旅行志",
+    "tagline": "把照片压进一枚圆形珐琅纪念章，配几行优雅衬线字，像一张极简旅行海报。",
+    "look": "照片被压缩进一枚圆形徽章：金属包边、彩色填釉、轻微高光和浅浮雕层次，像七宝烧或景泰蓝纪念章，里面是只留下关键元素的微缩场景。徽章放在大片米白或浅象牙色空场中，居中或稍稍偏开。颜色从照片里取 2–4 种，提亮整理成柔和的珐琅色。旁边配细致的衬线标题、小字注释或编号，排版安静，像旅行海报。",
+    "traits": [
+      "圆形珐琅徽章",
+      "七宝掐丝浅浮雕",
+      "金属包边",
+      "微缩场景",
+      "优雅旅行排字"
+    ],
+    "good": [
+      "有地标或标志性景物的旅行照：一座塔、一座桥、一座雪山、海边小镇",
+      "能浓缩成小世界的单个主体：一棵树、一只猫、一座房子、一艘船",
+      "想做成城市纪念、旅行回忆或礼物卡片的照片"
+    ],
+    "poor": [
+      "多人合影或需要看清五官的人像，徽章里只剩很小的人",
+      "没有核心主体、零散杂乱的场景",
+      "想要扁平手绘、照片写实感，或塞满信息的旅游宣传海报"
+    ]
+  },
+  "en": {
+    "name": "Enamel Medallion Travel",
+    "tagline": "Presses your photo into a round enamel souvenir medallion with a few elegant serif lines, like a minimalist travel poster.",
+    "look": "The photo is compressed into a round badge: a metal rim, coloured enamel fills, soft highlights and shallow relief layers, like a cloisonné souvenir medal, holding a miniature scene that keeps only the key elements. The medallion sits in a wide off-white or pale ivory field, centred or slightly off-centre. Two to four colours from the photo are brightened into soft enamel tones. Beside it go a fine serif title, small notes or a number, laid out quietly like a travel poster.",
+    "traits": [
+      "Round enamel medallion",
+      "Cloisonné bas-relief",
+      "Metal rim",
+      "Miniature scene",
+      "Elegant travel typography"
+    ],
+    "good": [
+      "Travel photos with a landmark or signature view: a tower, a bridge, a snowy peak, a seaside town",
+      "A single subject that can become a tiny world: a tree, a cat, a house, a boat",
+      "Photos you want as a city keepsake, travel memory or gift card"
+    ],
+    "poor": [
+      "Group photos or portraits that need clear faces, since people become tiny inside the badge",
+      "Scattered, messy scenes with no central subject",
+      "Requests for flat hand drawing, a photographic look, or a tourism poster packed with information"
+    ]
+  },
+  "ja": {
+    "name": "七宝メダルの旅",
+    "tagline": "写真を丸い七宝焼きの記念メダルに収め、上品なセリフ体を添えてミニマルな旅のポスターにします。",
+    "look": "写真を丸いバッジに凝縮します。金属の縁、色とりどりの釉、ほのかなハイライト、浅いレリーフの重なりがあり、七宝焼きの記念メダルのよう。中には要となる要素だけを残したミニチュアの景色が収まります。メダルは生成りや淡いアイボリーの広い空きに、中央かやや外して置かれます。色は写真から 2〜4 色を取り、明るく整えて柔らかな七宝の色にします。そばに繊細なセリフ体のタイトル、小さな注記や番号を静かに配し、旅のポスターのように仕上げます。",
+    "traits": [
+      "丸い七宝メダル",
+      "有線七宝の浅浮き彫り",
+      "金属の縁",
+      "ミニチュアの景色",
+      "上品な旅のタイポグラフィ"
+    ],
+    "good": [
+      "名所や象徴的な景色のある旅の写真：塔、橋、雪山、海辺の町",
+      "小さな世界にまとめられる一つの主役：一本の木、猫、家、船",
+      "街の記念、旅の思い出、ギフトカードにしたい写真"
+    ],
+    "poor": [
+      "集合写真や顔をはっきり見せたい人物写真（メダルの中で人がとても小さくなります）",
+      "中心となる主役がなく、散らかった場面",
+      "平面的な手描き、写真のような写実、情報を詰め込んだ観光ポスターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "에나멜 메달 여행",
+    "tagline": "사진을 둥근 에나멜 기념 메달에 담고 우아한 세리프 글자 몇 줄을 더해 미니멀한 여행 포스터로 만듭니다.",
+    "look": "사진을 둥근 배지 안에 압축합니다. 금속 테두리, 색을 채운 에나멜, 은은한 하이라이트, 얕은 부조 층이 있어 칠보나 경태람 기념 메달처럼 보이고, 안에는 핵심 요소만 남긴 미니어처 풍경이 들어갑니다. 메달은 넓은 미색이나 연한 상아색 공간 한가운데, 또는 살짝 비켜 놓입니다. 색은 사진에서 2~4가지를 골라 밝게 정리해 부드러운 에나멜 색으로 바꿉니다. 옆에는 섬세한 세리프 제목, 작은 주석이나 번호를 조용히 배치해 여행 포스터처럼 마무리합니다.",
+    "traits": [
+      "둥근 에나멜 메달",
+      "칠보 얕은 부조",
+      "금속 테두리",
+      "미니어처 풍경",
+      "우아한 여행 타이포그래피"
+    ],
+    "good": [
+      "랜드마크나 상징적인 풍경이 있는 여행 사진: 탑, 다리, 설산, 바닷가 마을",
+      "작은 세계로 압축할 수 있는 하나의 주인공: 나무 한 그루, 고양이, 집, 배",
+      "도시 기념품, 여행 추억, 선물 카드로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "단체 사진이나 얼굴이 또렷해야 하는 인물 사진(메달 안에서 사람이 아주 작아집니다)",
+      "중심 주인공 없이 흩어진 어수선한 장면",
+      "평면적인 손그림, 사진 같은 사실감, 정보가 빽빽한 관광 홍보 포스터를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رحلة ميدالية المينا",
+    "tagline": "يضغط صورتك داخل ميدالية تذكارية مستديرة من المينا مع بضعة أسطر بخط مذيّل أنيق، كملصق سفر بسيط.",
+    "look": "تُختزل الصورة داخل شارة مستديرة: إطار معدني وحشوات مينا ملوّنة ولمعة خفيفة وطبقات نقش بارز ضحل، كميدالية تذكارية بأسلوب المينا المقسّمة، وفي داخلها مشهد مصغّر لا يحتفظ إلا بالعناصر الأساسية. توضع الميدالية في مساحة واسعة بلون أبيض كريمي أو عاجي فاتح، في الوسط أو مزاحة قليلاً. تُؤخذ من الصورة اثنان إلى أربعة ألوان وتُفتَّح لتصبح درجات مينا ناعمة. وإلى جانبها عنوان رفيع بخط مذيّل وملاحظات صغيرة أو رقم، بتنسيق هادئ كملصق سفر.",
+    "traits": [
+      "ميدالية مينا مستديرة",
+      "نقش بارز بالمينا المقسّمة",
+      "إطار معدني",
+      "مشهد مصغّر",
+      "طباعة سفر أنيقة"
+    ],
+    "good": [
+      "صور سفر فيها معلم أو منظر مميز: برج، جسر، قمة مثلجة، بلدة ساحلية",
+      "عنصر واحد يمكن أن يصير عالماً صغيراً: شجرة، قطة، بيت، قارب",
+      "صور تريدها تذكاراً لمدينة أو ذكرى رحلة أو بطاقة هدية"
+    ],
+    "poor": [
+      "صور جماعية أو صور شخصية تحتاج إلى وجوه واضحة، لأن الأشخاص يصغرون جداً داخل الشارة",
+      "مشاهد مبعثرة وفوضوية بلا عنصر مركزي",
+      "طلب رسم يدوي مسطّح أو مظهر فوتوغرافي أو ملصق سياحي مزدحم بالمعلومات"
+    ]
+  }
+}
